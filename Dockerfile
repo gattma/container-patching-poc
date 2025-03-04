@@ -1,1 +1,1 @@
-FROM ghcr.io/gattma/silly-demo:1.0.0@sha256:e598200ea27d117f8b617f2fece43ca7295207a373760148c35ec113643f518a
+FROM ghcr.io/gattma/silly-demo:1.0.0@sha256:baf157bc7985137abaa830981769072d0321baa3adf66ef6fef61b8728bb3d4b
