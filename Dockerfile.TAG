@@ -1,1 +1,1 @@
-FROM ghcr.io/gattma/silly-demo:main-6664d69
+FROM ghcr.io/gattma/silly-demo:1.0.0
